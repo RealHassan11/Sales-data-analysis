@@ -19,7 +19,7 @@ Tools Used
 * Data visualisation and dashboard reporting
 
 Dashboard
-
+![Sales Performance Dashboard](SALESS-DASHBOARD PNG.png)
 The interactive dashboard presents sales performance metrics, product performance, regional comparisons, and key findings.
 
 Key Insights
